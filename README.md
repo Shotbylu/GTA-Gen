@@ -1,35 +1,3 @@
-<p align="center">
-    <br>
-    <img src="images/banner.png" style="height: 250px;">
-    <h2 align="center"><i>AI Generated GTAV</i></h2>
-</p>
-
-<p align="center">
-    <a href="https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fgithub.com%2Fikergarcia1996%2FAI-Generated-GTAV"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fikergarcia1996%2FAI-Generated-GTAV"></a>
-    <a href="https://github.com/ikergarcia1996/AI-Generated-GTAV/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ikergarcia1996/AI-Generated-GTAV"></a>
-    <a href="https://huggingface.co/Iker/AI-Generated-GTA-V"><img alt="Models" src="https://img.shields.io/badge/🤗-Pretrained%20Models-blue"></a>
-    <a href="https://huggingface.co/datasets/Iker/GTAV-Driving-Dataset"><img alt="Dataset" src="https://img.shields.io/badge/🤗-Dataset-blue"></a>
-    <a href="https://visitor-badge.laobi.icu/badge?page_id=ikergarcia1996.aigtav"><img src="https://visitor-badge.laobi.icu/badge?page_id=ikergarcia1996.aigtav" alt="visitors"/></a>
-    <a href="https://ikergarcia1996.github.io/Iker-Garcia-Ferrero/"><img alt="Author" src="https://img.shields.io/badge/Author-Iker%20García%20Ferrero-ff69b4"></a>
-</p>
-
-
-
-A Deep Learning project that uses Diffusion transformers (DiT) to generate <img src="https://upload.wikimedia.org/wikipedia/de/7/74/GTA5-logo-o.svg" width="26" height="20"/> Grand Theft Auto V driving footage.
-This project is based on the  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Minecraft.png" width="20" height="20" />[Open-Oasis Project](https://github.com/etched-ai/open-oasis)
-
-<table>
-<tr>
-<td><img src="images/Sample1.gif" alt="Driving Sample 1"/></td>
-<td><img src="images/Sample2.gif" alt="Driving Sample 2"/></td>
-</tr>
-</table>
-
-
-> 👉 Also check out [TEDD1104: Self Driving Car in GTAV](https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games)
-
-
-
 ## Architecture
 
 ![image](images/arch.jpeg)
